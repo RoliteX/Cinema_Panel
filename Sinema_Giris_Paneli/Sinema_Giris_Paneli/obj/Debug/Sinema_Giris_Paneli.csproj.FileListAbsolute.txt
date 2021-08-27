@@ -1,0 +1,15 @@
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\bin\Debug\Sinema_Giris_Paneli.exe.config
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\bin\Debug\Sinema_Giris_Paneli.exe
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\bin\Debug\Sinema_Giris_Paneli.pdb
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.csproj.AssemblyReference.cache
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.Form1.resources
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.Properties.Resources.resources
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.csproj.GenerateResource.cache
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.csproj.CoreCompileInputs.cache
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.exe
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.pdb
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.Form2.resources
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.Form4.resources
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.Recepİvedik6.resources
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.Testere8.resources
+D:\yazılım\c#\Sinema_Giris_Paneli\Sinema_Giris_Paneli\obj\Debug\Sinema_Giris_Paneli.YildizlarArasindaF.resources
